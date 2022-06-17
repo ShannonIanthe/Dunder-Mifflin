@@ -2,6 +2,7 @@
     margin-left: auto;
 }
 
+/* MAKE 'PRODUCTS' SECTION RESPONSIVE
 // X-Small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) { ... }
 
